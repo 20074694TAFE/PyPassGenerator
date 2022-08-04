@@ -8,4 +8,4 @@ while True:
 for i in range(10):
     random_integer = random.randint(33,126)
     password += chr(random_integer)
-print("password",password, len(password))
+print(password)
