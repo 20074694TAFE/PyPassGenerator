@@ -1,3 +1,4 @@
+#This is a comment
 import random
 password = ""
 for i in range(10):
